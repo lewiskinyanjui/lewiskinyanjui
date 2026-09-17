@@ -8,7 +8,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=a371f7&center=true&vCenter=true&width=670&height=44&lines=Computer%20science%20student%2C%20Chuka%20University" alt="Typing headlines" />
 </p>
 
-### 🚀 About Me
+### 🚀  About Me
 
 Computer science student dedicated to crafting clean code, learning web development, mobile app development and Cyber security.
 
